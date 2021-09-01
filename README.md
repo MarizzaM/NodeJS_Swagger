@@ -14,4 +14,6 @@ to serve the swagger UI in our express app
     
     npm install swagger-ui-express
     
+## Accessing the Docs
 
+With your local server running, the generated docs are available here: http://localhost:3000/api-docs
