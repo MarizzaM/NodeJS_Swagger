@@ -17,3 +17,5 @@ to serve the swagger UI in our express app
 ## Accessing the Docs
 
 With your local server running, the generated docs are available here: http://localhost:3000/api-docs
+
+I’m going to supply this [ready-to-use example](https://github.com/MarizzaM/Node_Express_Api_for_Swagger) that you must clone to your local machine before proceeding to implementation.
